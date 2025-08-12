@@ -5,10 +5,10 @@
 <a href="https://www.instagram.com/yaroslavpimenov/">
   <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/instagram_icon-instagram_buttoninstegram-1024.png"/>
 </a>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/yaroslav-pimenov-3442a237a/">
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png"/>
 </a>
-<a href="https://telegram.org/">
+<a href="https://t.me/YaroslavPimenov">
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_19-telegram-1024.png"/>
 </a>
 
@@ -55,7 +55,6 @@ goals: >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="GitHub" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="50" height="50" />
 </p>
 </p>
