@@ -32,8 +32,8 @@ fields_of_interests:
   - Continuous Integration/Continuous Deployment (CI/CD)
 
 currently_learning:
-  - Advanced API Testing (REST & GraphQL)
-  - CI/CD Pipelines (GitHub Actions, Jenkins)
+  - Advanced API Testing 
+  - CI/CD Pipelines 
   - Docker and Containerization
   - Performance Testing with JMeter
 
